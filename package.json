@@ -1,0 +1,29 @@
+{
+  "name": "safe-batch-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiroshifariassaito/safe-batch-stream.git"
+  },
+  "keywords": [
+    "batch",
+    "stream",
+    "backpressuring",
+    "backpressure"
+  ],
+  "author": "Hiroshi Farias Saito <hiroshi.fs94@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiroshifariassaito/safe-batch-stream/issues"
+  },
+  "homepage": "https://github.com/hiroshifariassaito/safe-batch-stream#readme",
+  "devDependencies": {
+    "@types/node": "13.9.0",
+    "typescript": "3.8.3"
+  }
+}
